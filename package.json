@@ -1,0 +1,20 @@
+{
+  "name": "generative-sandbox",
+  "version": "1.0.0",
+  "description": "Max/MSP sandbox for generative projects ",
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vorobeez/generative-sandbox.git"
+  },
+  "author": "Andrey Firsov (vorobeez@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vorobeez/generative-sandbox/issues"
+  },
+  "homepage": "https://github.com/vorobeez/generative-sandbox#readme",
+  "dependencies": {
+    "generative-tools": "^1.0.0"
+  }
+}
