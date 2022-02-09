@@ -1,7 +1,7 @@
 {
   "name": "generative-sandbox",
   "version": "1.0.0",
-  "description": "Max/MSP sandbox for generative projects ",
+  "description": "Max/MSP sandbox for generative projects",
   "main": "src/index.js",
   "scripts": {},
   "repository": {
